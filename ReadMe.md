@@ -1,8 +1,9 @@
 <p align="center">
-  <a href="https://ksoliven.github.io/natours-responsive-development/"><img src="https://ibb.co/rkrZh3s" height="250px"></a>
+  <a href="https://ksoliven.github.io/natours-responsive-development/"><img src="img/logo-green-small-1x.png" height="250px"></a>
 </p>
 
 Website that demonstrates advanced CSS and SASS skills
+
 ## Coded With
 
 * [CSS](https://www.w3.org/TR/CSS/#css) - Cascading Style Sheets
