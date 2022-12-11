@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ksoliven.github.io/natours-responsive-development/"><img src="img/logo-green-small-1x.png" height="250px"></a>
+  <a href="https://ksoliven.github.io/natours-responsive-development/"><img src="img/natours.png" height="250px"></a>
 </p>
 
 Website that demonstrates advanced CSS and SASS skills
